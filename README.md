@@ -1,1 +1,0 @@
-# elasticsearch_logger_backend
