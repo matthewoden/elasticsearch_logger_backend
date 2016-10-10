@@ -31,8 +31,7 @@ defmodule ElasticsearchLoggerBackend.Mixfile do
      files: ["lib", "mix.exs", "README*", "LICENSE*",],
      maintainers: ["Sam Schneider"],
      licenses: ["MIT"],
-     links: %{"GitHub" => "https://github.com/sschneider1207/elasticsearch_logger_backend/",
-      "Docs" => "https://hexdocs.pm/elasticsearch_logger_backend/"}]
+     links: %{"GitHub" => "https://github.com/sschneider1207/elasticsearch_logger_backend/"}]
   end
 
   # Dependencies can be Hex packages:
